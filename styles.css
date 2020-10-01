@@ -2,3 +2,11 @@
     max-width: 500px;
     width:100%;
   }
+
+  .correct {
+      color: green;
+  }
+
+  .wrong {
+      color: red;
+  }
