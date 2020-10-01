@@ -4,9 +4,9 @@
   }
 
   .correct {
-      color: green;
+      color: #b9ffb9;
   }
 
   .wrong {
-      color: red;
+      color: #ff8383;
   }
